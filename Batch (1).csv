@@ -1,0 +1,21 @@
+Batch ID,Batch Name,Department Name,List of Courses,List of Students
+1,Computer Science and Engineering,CSE,CSE,CSE001
+1,Computer Science and Engineering,CSE,CSE,CSE002
+1,Computer Science and Engineering,CSE,CSE,CSE001
+1,Computer Science and Engineering,CSE,CSE,CSE002
+2,Electrical Engineering,EE,EE,EE001
+2,Electrical Engineering,EE,EE,EE002
+2,Electrical Engineering,EE,EE,EE001
+2,Electrical Engineering,EE,EE,EE002
+3,Mechanical Engineering,ME,ME,ME001
+3,Mechanical Engineering,ME,ME,ME002
+3,Mechanical Engineering,ME,ME,ME001
+3,Mechanical Engineering,ME,ME,ME002
+4,Civil Engineering,CE,CE,CE001
+4,Civil Engineering,CE,CE,CE002
+4,Civil Engineering,CE,CE,CE001
+4,Civil Engineering,CE,CE,CE002
+5,Electronics and Telecommunications,ECE,ECE,ECE001
+5,Electronics and Telecommunications,ECE,ECE,ECE002
+5,Electronics and Telecommunications,ECE,ECE,ECE001
+5,Electronics and Telecommunications,ECE,ECE,ECE002
